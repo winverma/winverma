@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **Coding principles, paradigms and exploring novel algorithms enable me to approach complex software problems with precision.**
 
-Stats:
+Here are my Stats:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winverma&" alt="winverma" /></p>
 
