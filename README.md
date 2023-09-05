@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, .NET, Javascript.**
 
-- 🤝 I’m looking for help with **Software Development**
+- 🤝 I’m looking for help with **Software Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/winverma](https://github.com/winverma)
 
