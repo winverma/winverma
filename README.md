@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact: **Coding principles, paradigms and exploring novel algorithms enable me to approach complex software problems with precision.**
 
+p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winverma&" alt="winverma" /></p><
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/electrifierxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="electrifierxx" height="30" width="40" /></a>
@@ -32,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winverma&show_icons=true&locale=en" alt="winverma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winverma&" alt="winverma" /></p>
