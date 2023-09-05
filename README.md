@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winverma&label=Profile%20views&color=0e75b6&style=flat" alt="winverma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winverma" alt="winverma" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/electrifierxx" target="blank"><img src="https://img.shields.io/twitter/follow/electrifierxx?logo=twitter&style=for-the-badge" alt="electrifierxx" /></a> </p>
 
 - 🌱 I’m currently learning **Angular, .NET, Javascript.**
