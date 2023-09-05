@@ -1,4 +1,4 @@
-<h1 align="center">Ayo Mate! 👋, Man's known as Win Verma</h1>
+<h1 align="center">Ayo Mate! 👋, Man's name is Win Verma</h1>
 <h3 align="center">Your Techbro's been working on Full Stack Tech, Aspiring to be a Top SWE!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winverma&label=Profile%20views&color=0e75b6&style=flat" alt="winverma" /> </p>
