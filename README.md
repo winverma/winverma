@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Software Development.**
 
-- 👨‍💻 All of my projects are available at [Projects_WinVerma](https://github.com/winverma?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects of WinVerma](https://github.com/winverma?tab=repositories)
 
 - 💬 Ask me about **Tech Stacks, FAANG Culture, SDE Roles.**
 
