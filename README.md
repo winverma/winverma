@@ -15,7 +15,7 @@
 
 - 📫 Wanna Reach me? **Email me: win.verma2021@vitstudent.ac.in**
 
-- ⚡  fact: **Embracing the art of coding, dancing with principles, and surfing the waves of paradigms, I ride my algorithmic surfboard into the realm of complex software problems, chasing precision with the spirit of an algorithm explorer. 🏄‍♂️💻🌟**
+- ⚡  fact: **Embracin' the code game, rollin' with them principles, ridin' them waves of paradigms, I hop on my algorithmic surfboard and dive deep into the wild sea of complex software puzzles, chasin' that precision with the soul of an algorithm explorer. 🏄‍♂️💻🌟**
 
 Here are my stats:
 
