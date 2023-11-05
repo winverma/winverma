@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/electrifierxx" target="blank"><img src="https://img.shields.io/twitter/follow/electrifierxx?logo=twitter&style=for-the-badge" alt="electrifierxx" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development.**
+- 🌱 I’m currently learning **MERN Stack with DevOps**
 
 - 🤝 I’m looking for help with **Software Development.**
 
@@ -25,7 +25,7 @@ Here are my stats:
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/win-electrifier) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/2kgSitafal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/electrifierxx) [![Kaggle (https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png)](https://www.kaggle.com/winverma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/win-electrifier) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/2kgSitafal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/electrifierxx) [![Kaggle](https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png)](https://www.kaggle.com/winverma)
 
 
 # 💻 Tech Stack:
