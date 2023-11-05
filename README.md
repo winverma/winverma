@@ -16,7 +16,7 @@
 
 - ⚡ Fun Fact: **Reppin' the code, holdin' them principles tight, cruisin' through the waves of paradigms, I'm ridin' my algorithmic surfboard through the gritty streets of complex software problems, huntin' that precision like a drill sergeant in the game. 🏄‍♂️💻🌟**
 
-Here are my stats:
+# 📊 Here goes my GitHub Stats:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winverma&" alt="winverma" /></p>
 
