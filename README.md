@@ -39,5 +39,7 @@ Here are my stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winverma&show_icons=true&locale=en" alt="winverma" /></p>
 
+<p align="left"> <a href="https://twitter.com/electrifierxx" target="blank"><img src="https://img.shields.io/twitter/follow/electrifierxx?logo=twitter&style=for-the-badge" alt="electrifierxx" /></a> </p>
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
