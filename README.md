@@ -20,7 +20,7 @@ Here are my stats:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winverma&" alt="winverma" /></p>
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">Connect with me 👇</h4>
 
 ## 🌐 Socials:
 
