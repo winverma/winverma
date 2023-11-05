@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects of Win Verma](https://github.com/winverma?tab=repositories).
 
-- 💬 Ask me about **Tech Stacks, FAANG Culture, SDE Roles.**
+- 💬 Ask me about **Tech Stacks, FAANG Culture, SDE Roles & More!**
 
 - 📫 Wanna Reach Me? **Email Me: win.verma2021@vitstudent.ac.in**
 
