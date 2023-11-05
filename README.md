@@ -26,7 +26,7 @@ Here are my stats:
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/win-electrifier) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/2kgSitafal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/electrifierxx) <a href="https://www.kaggle.com/winverma">
-  <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" alt="Kaggle" width="30" height="30" style="margin-top: 2px;">
+  <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" alt="Kaggle" width="35" height="25" style="margin-top: 10px;">
 </a>
 
 
