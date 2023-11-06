@@ -40,4 +40,4 @@
 <a href="https://github.com/arpit456jain" >  <img src="https://github.com/winverma/test/blob/main/github-contribution-grid-snake.gif" align="center" />  </a>
 
 ### Random Dev Meme 🤣🤣
-<img src='https://randommeme-five.vercel.app/' style="height: 300px; width: 500px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px; width: 450px;"/>
