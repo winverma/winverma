@@ -20,7 +20,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=winverma&theme=vision-friendly-dark&hide_border=false)<br/>
 
-<h4 align="left">Connect with me 👇</h4>
+<h4 align="left">🤝 Connect with me 👇</h4>
 
 ## 🌐 Socials:
 
@@ -42,6 +42,6 @@
 
 <a href="https://github.com/winverma" >  <img src="https://github.com/winverma/test/blob/main/github-contribution-grid-snake.gif" align="center" />  </a>
 
-<summary>:trophy: Github Profile Trophies:</summary>
+<h3>:trophy: Github Profile Trophies:</h3>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=winverma&theme=monokai&row=1&no-frame=true&no-bg=true/">
