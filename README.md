@@ -41,3 +41,7 @@
 
 ### Random Dev Meme 🤣🤣
 <img src='https://randommeme-five.vercel.app/' style="height: 300px; width: 450px;"/>
+
+<summary>:trophy: Github Profile Trophies:</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=winverma&theme=monokai&row=1&no-frame=true&no-bg=true/">
