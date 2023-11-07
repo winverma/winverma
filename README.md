@@ -44,7 +44,7 @@
  </div>
 
 ### Random Dev Meme 🤣🤣
-<img src='https://randommeme-five.vercel.app/' style="height: 200px; width: 300px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 250px; width: 300px;"/>
 
 <h3>:trophy: Github Profile Trophies:</h3>
   <br/>
