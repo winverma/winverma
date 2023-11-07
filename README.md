@@ -1,8 +1,8 @@
-<h1>
+<<div>
     <a href="https://github.com/winverma">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25D316&center=true&vcenter=true&width=1000&lines=Ayo Mate! 🦄+Man's+Name+is+Win+Verma!"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25D316&center=true&width=1000&lines=Ayo Mate! 🦄+Man's+Name+is+Win+Verma!"/>
     </a>
-</h1>
+</div>
 
 <h3 align="center">Your Techbro's been working on Full Stack Tech. Aspiring to be a Top SWE :)</h3>
 
