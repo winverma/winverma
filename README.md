@@ -1,6 +1,6 @@
 <div>
     <a href="https://github.com/winverma">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f80000&center=true&width=500&lines=Ayo Mate! 🦄+Man's+Name+is+Win+Verma!"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f80000&center=true&width=1000&lines=Ayo Mate! 🦄+Man's+Name+is+Win+Verma!"/>
     </a>
 </div>
 
