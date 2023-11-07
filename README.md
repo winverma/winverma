@@ -1,10 +1,9 @@
-<h2>
+<div>
     <a href="https://github.com/winverma">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f80000&center=true&width=1000&lines=Ayo Mate! 🦄+Man's+Name+is+Win+Verma!"/>
     </a>
-<h2>
-
-<h3 align="center">Your Techbro's been working on Full Stack Tech. Aspiring to be a Top SWE :)</h3>
+</div>
+<h3 align="center" style="color: lightpink;">Your Techbro's been working on Full Stack Tech. Aspiring to be a Top SWE :)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=winverma&label=Profile%20views&color=25D366&style=flat" alt="winverma" /> </p>
 
