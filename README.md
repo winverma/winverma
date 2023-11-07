@@ -49,3 +49,5 @@
 <h3>:trophy: Github Profile Trophies:</h3>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=winverma&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+[MIT](./LICENSE) &copy; [GitHub](https://github.com/winverma)
