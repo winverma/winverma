@@ -1,4 +1,8 @@
-<h1 align="center">Ayo Mate!🦄 Man's name is Win Verma!</h1>
+<h1>
+    <a href="https://github.com/winverma">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&center=true&vcenter=true&width=1000&lines=Ayo Mate! 🦄+Man's+Name+is+Win+Verma!"/>
+    </a>
+</h1>
 
 <h3 align="center">Your Techbro's been working on Full Stack Tech. Aspiring to be a Top SWE :)</h3>
 
