@@ -37,10 +37,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winverma&show_icons=true&locale=en" alt="winverma" /></p>
 
-### Random Dev Meme 🤣🤣
-<img src='https://randommeme-five.vercel.app/' style="height: 200px; width: 300px;"/>
-
 <a href="https://github.com/winverma" >  <img src="https://github.com/winverma/test/blob/main/github-contribution-grid-snake.gif" align="center" />  </a>
+
+# 📈 Contribution Graph  
+[![Win Verma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winverma&theme=react-dark)](https://github.com/winverma)
+ </div>
+
+### Random Dev Meme 🤣🤣
+<img src='https://randommeme-five.vercel.app/' style="height: 200px; width: 350px;"/>
 
 <h3>:trophy: Github Profile Trophies:</h3>
   <br/>
