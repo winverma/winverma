@@ -1,3 +1,5 @@
+<a href="https://github.com/winverma" > <img src="https://raw.githubusercontent.com/winverma/test/main/Flashy%20Lines.gif" align="center" /> </a>
+
 <div>
     <a href="https://github.com/winverma">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f80008&center=true&width=1000&lines=Ayo Mate! 🦄+Man's+Name+is+Win+Verma!"/>
@@ -28,11 +30,10 @@
 
 <h4 align="left">🤝 Connect with me 👇</h4>
 
+
 ## 🌐 Socials:
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/winverma) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/electrifierxx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/win-electrifier) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@win.electrifier) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/electrifiedwinner) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/2kgSitafal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22614614) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/electrifierxx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/electrifierxx) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/winverma) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@electrifierxx) <a href="https://www.kaggle.com/winverma">
-  <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" alt="Kaggle" width="55" height="25" style="margin-top: 30px;">
-</a>
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/winverma) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/electrifierxx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/win-electrifier) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@win.electrifier) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/electrifiedwinner) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/2kgSitafal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22614614) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/electrifierxx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/electrifierxx) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/winverma) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@electrifierxx) <a href="https://www.kaggle.com/winverma"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" alt="Kaggle" width="55" height="25" style="margin-top: 30px;"></a>
 
 
 # 💻 Tech Stacks I'm Familiar With:
@@ -47,7 +48,6 @@
 
 # 📈 Contribution Graph  
 [![Win Verma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winverma&theme=react-dark)](https://github.com/winverma)
- </div>
 
 ### Random Dev Meme 🤣🤣
 <img src='https://randommeme-five.vercel.app/' style="height: 250px; width: 300px;"/>
@@ -56,4 +56,6 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=winverma&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
-  [GitHub](https://github.com/winverma) &COPY;
+   [GitHub](https://github.com/winverma) &COPY;
+  
+  <a href="https://github.com/winverma" > <img src="https://raw.githubusercontent.com/winverma/test/main/Flashy%20Lines.gif" align="center" /> </a>
