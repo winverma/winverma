@@ -4,7 +4,7 @@
     </a>
 </div>
 
-<h3 align="center" style="color: #FFB6C1;"> <picture><img src = "https://raw.githubusercontent.com/winverma/test/main/about_me.gif" width = 32px height = 36px></picture> Your Techbro's been working on Full Stack Tech. Aspiring to be a Top SWE :) </h3>
+<h3 align="center" style="color: #FFB6C1;"> <picture><img src = "https://raw.githubusercontent.com/winverma/test/main/about_me.gif" width = 40px height = 40px></picture> Your Techbro's been working on Full Stack Tech. Aspiring to be a Top SWE :) </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=winverma&label=Profile%20views&color=25D366&style=flat" alt="winverma" /> </p>
 
