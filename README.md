@@ -53,7 +53,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 250px; width: 300px;"/>
 
 <h3>:trophy: Github Profile Trophies:</h3>
-  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=winverma&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 <p align="center">Thank you for scrolling all the way!</p>
