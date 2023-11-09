@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winverma&show_icons=true&locale=en" alt="winverma" /></p>
 
-<a href="https://github.com/winverma" >  <img src="https://github.com/winverma/test/blob/main/github-contribution-grid-snake.gif" align="center" />  </a>
+<a href="https://github.com/winverma" >  <img src="https://raw.githubusercontent.com/winverma/test/3d7e53ce510e2ae86412d664db15190bff2f308e/grid-snake.svg" align="center" />  </a>
 
 # 📈 Contribution Graph  
 [![Win Verma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winverma&theme=react-dark)](https://github.com/winverma)
