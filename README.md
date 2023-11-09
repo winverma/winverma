@@ -58,7 +58,11 @@
 
 <p align="center">Thank you for scrolling all the way!</p>
 
+<div style="text-align: center;">
+  <a href="https://github.com/winverma">GitHub</a> ©
+</div>
+
 <p align="center"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-crimson?style=for-the-badge" /></a></p>
-<a href="https://github.com/winverma" align="center">GitHub</a> ©
+
 
   <a href="https://github.com/winverma" > <img src="https://raw.githubusercontent.com/winverma/test/main/Flashy%20Lines.gif" align="center" /> </a>
