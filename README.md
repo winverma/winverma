@@ -22,7 +22,7 @@
 
 - 📫 Wanna Reach Me? **Email Me: win.verma2021@vitstudent.ac.in**
 
-- ⚡ Fun Fact: **Man's reppin' the code, holdin' them principles tight, cruisin' through the waves of leng paradigms, what a tech savvy sight! I'm ridin' my algorithmic surfboard with all my might, through the gritty streets of complex software problems, day and night! Huntin' that precision like a drill sergeant's sight, phase up this code game, I'm up for a fight! 🏄‍♂️💻🌟**
+- ⚡ Fun Fact: **Man's reppin' the code, holdin' them principles tight, what a tech savvy sight, cruisin' through the waves of leng paradigms! I'm ridin' my algorithmic surfboard with all my might, through the litty-gritty streets of complex software problems, day and night! Huntin' that precision like a drill sergeant's sight, phase up this code game, I'm up for a fight! 🏄‍♂️💻🌟**
 
 # 📊 My GitHub Summary:
 
