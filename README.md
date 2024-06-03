@@ -49,9 +49,6 @@
 # 📈 Contribution Graph  
 [![Win Verma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winverma&theme=react-dark)](https://github.com/winverma)
 
-### Random Dev Meme 🤣🤣
-<img src='https://randommeme-five.vercel.app/' style="height: 250px; width: 300px;"/>
-
 <h3>:trophy: Github Profile Trophies:</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=winverma&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
