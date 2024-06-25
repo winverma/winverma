@@ -57,7 +57,7 @@
 <p align="center"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-crimson?style=for-the-badge" /></a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
 </p>
 
 <div style="text-align: center;">
